@@ -1,4 +1,4 @@
-# Challenge 1 – Root Detection Bypass
+# Challenge 1 – Mini Android Root Detection Bypass
 
 ## Objective
 Bypass the app’s root detection mechanism to display the screen that appears only if no root is detected.
